@@ -1,0 +1,210 @@
+2024-06-11 01:37:34,390 - vk bot - INFO - the user_268979626's answer: s
+2024-06-11 01:37:34,743 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:37:34,743 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:37:35,426 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:37:36,071 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:37:36,204 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:37:36,206 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:37:37,201 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:37:52,006 - vk bot - INFO - the user_268979626's answer: Москва слезам не верит
+2024-06-11 01:37:52,076 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:37:52,076 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:37:52,742 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:37:53,363 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:37:53,458 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:37:53,458 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:37:54,546 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:38:09,552 - vk bot - INFO - the user_268979626's answer: Москва слезам
+2024-06-11 01:38:09,655 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:38:09,656 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:38:10,306 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:38:10,931 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:38:11,017 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:38:11,017 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:38:12,044 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:39:07,176 - vk bot - INFO - the user_268979626's answer: москва
+2024-06-11 01:39:07,291 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:39:07,292 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:39:07,984 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:39:08,608 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:39:08,704 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:39:08,704 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:39:09,888 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:39:18,955 - vk bot - INFO - the user_268979626's question: Как сначала называлась местность вокруг Кремля?
+2024-06-11 01:39:18,955 - vk bot - INFO - the user_268979626's correct answer: Китай-город
+2024-06-11 01:39:23,786 - vk bot - INFO - the user_268979626's question: Где в столице установлен памятник писателю Абаю Кунанбаеву?
+2024-06-11 01:39:23,786 - vk bot - INFO - the user_268979626's correct answer: На Чистопрудном бульваре
+2024-06-11 01:39:27,466 - vk bot - INFO - the user_268979626's question: Какой православный храм, ставший одним из символов Москвы, расположен на Красной площади?
+2024-06-11 01:39:27,466 - vk bot - INFO - the user_268979626's correct answer: Покровский собор (Храм Василия Блаженного)
+2024-06-11 01:39:30,798 - vk bot - INFO - the user_268979626's question: Сколько в Москве железнодорожных вокзалов?
+2024-06-11 01:39:30,798 - vk bot - INFO - the user_268979626's correct answer: 10
+2024-06-11 01:39:34,869 - vk bot - INFO - the user_268979626's answer: 2
+2024-06-11 01:39:34,976 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:39:34,977 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:39:35,667 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:39:36,362 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:39:36,472 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:39:36,472 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:39:37,536 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:39:41,018 - vk bot - INFO - the user_268979626's answer: 10
+2024-06-11 01:39:41,088 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:39:41,088 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:39:41,739 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:39:42,357 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:39:42,455 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:39:42,455 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:39:43,359 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:39:47,421 - vk bot - INFO - the user_268979626's answer: десять
+2024-06-11 01:39:47,489 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:39:47,490 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:39:48,128 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:39:48,780 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:39:48,883 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:39:48,884 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:39:49,824 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:39:51,371 - vk bot - INFO - the user_268979626's answer: восемь
+2024-06-11 01:39:51,445 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:39:51,454 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:39:52,076 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:39:52,713 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:39:52,811 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:39:52,811 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:39:53,493 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:40:00,523 - vk bot - INFO - the user_268979626's answer: семь
+2024-06-11 01:40:00,623 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:40:00,625 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:40:01,291 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:40:01,931 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:40:02,032 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:40:02,032 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:40:02,741 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:40:13,461 - vk bot - INFO - the user_268979626's answer: девять
+2024-06-11 01:40:13,544 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:40:13,544 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:40:14,251 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:40:14,853 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:40:14,929 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:40:14,929 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:40:15,600 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:40:28,322 - vk bot - INFO - the user_268979626's answer: 11
+2024-06-11 01:40:28,400 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:40:28,400 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:40:29,062 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:40:29,663 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:40:29,738 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:40:29,748 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:40:30,431 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:40:33,550 - vk bot - INFO - the user_268979626's answer: 9
+2024-06-11 01:40:33,648 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:40:33,648 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:40:34,306 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:40:34,915 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:40:35,020 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:40:35,020 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:40:35,708 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:40:59,389 - vk bot - INFO - the user_268979626's question: Как называется сад, расположенный вдоль западной стены Кремля?
+2024-06-11 01:40:59,389 - vk bot - INFO - the user_268979626's correct answer: Александровский сад
+2024-06-11 01:41:06,018 - vk bot - INFO - the user_268979626's question: Как называется знаменитая колокольня Кремля?
+2024-06-11 01:41:06,018 - vk bot - INFO - the user_268979626's correct answer: Колокольня Ивана Великого
+2024-06-11 01:41:08,364 - vk bot - INFO - the user_268979626's question: Кто изображен на гербе Москвы?
+2024-06-11 01:41:08,364 - vk bot - INFO - the user_268979626's correct answer: Георгий Победоносец
+2024-06-11 01:41:12,183 - vk bot - INFO - the user_268979626's question: Сколько звёзд у гостиницы «Космос»?
+2024-06-11 01:41:12,183 - vk bot - INFO - the user_268979626's correct answer: 3
+2024-06-11 01:41:15,647 - vk bot - INFO - the user_268979626's answer: 3
+2024-06-11 01:41:15,729 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:41:15,729 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:41:16,385 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:41:17,032 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:41:17,178 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:41:17,179 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:41:18,087 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:41:21,997 - vk bot - INFO - the user_268979626's question: Перечислите самые известные соборы Кремля.
+2024-06-11 01:41:21,997 - vk bot - INFO - the user_268979626's correct answer: Успенский, Благовещенский, Архангельский соборы
+2024-06-11 01:41:28,548 - vk bot - INFO - the user_268979626's answer: Успенский
+2024-06-11 01:41:28,649 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:41:28,650 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:41:29,316 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:41:29,964 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:41:30,050 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:41:30,050 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:41:31,330 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:41:41,260 - vk bot - INFO - the user_268979626's answer: Благовещенский и Архангельский
+2024-06-11 01:41:41,346 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:41:41,346 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:41:42,007 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:41:42,637 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:41:42,744 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:41:42,744 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:41:44,098 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:41:51,121 - vk bot - INFO - the user_268979626's answer: Благовещенский
+2024-06-11 01:41:51,225 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:41:51,225 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:41:51,863 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:41:52,503 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:41:52,610 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:41:52,610 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:41:53,645 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:42:51,188 - vk bot - INFO - the user_268979626's answer: Благовещенский и Архангельский
+2024-06-11 01:42:51,271 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:42:51,272 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:42:51,936 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:42:52,542 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:42:52,638 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:42:52,638 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:42:53,995 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:42:56,823 - vk bot - INFO - the user_268979626's answer: Благовещенский и Архангельский
+2024-06-11 01:42:56,915 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:42:56,916 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:42:57,566 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:42:58,196 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:42:58,313 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:42:58,313 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:42:59,657 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:43:03,710 - vk bot - INFO - the user_268979626's answer: Благовещенский
+2024-06-11 01:43:03,785 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:43:03,791 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:43:04,457 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:43:05,065 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:43:05,161 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:43:05,161 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:43:06,185 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:43:08,180 - vk bot - INFO - the user_268979626's answer: Благовещенский
+2024-06-11 01:43:08,278 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:43:08,279 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:43:08,916 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:43:09,527 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:43:09,630 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:43:09,630 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:43:10,665 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:43:12,233 - vk bot - INFO - the user_268979626's answer: Благовещенский
+2024-06-11 01:43:12,313 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:43:12,313 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:43:12,980 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:43:13,599 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:43:13,705 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:43:13,705 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:43:14,740 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:43:56,321 - vk bot - INFO - the user_268979626's answer: Василия Блаженого
+2024-06-11 01:43:56,406 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:43:56,407 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:43:57,087 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:43:57,710 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 01:43:57,803 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:43:57,803 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:43:59,243 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:44:59,171 - vk bot - INFO - the user_268979626 stopped bot.
+2024-06-11 01:45:50,482 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:45:50,483 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:45:51,597 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:46:04,041 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:46:04,041 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:46:06,418 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:46:16,779 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:46:16,779 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:46:19,616 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:46:28,163 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:46:28,164 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:46:29,263 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 01:46:46,403 - httpx - INFO - HTTP Request: POST https://ngw.devices.sberbank.ru:9443/api/v2/oauth "HTTP/1.1 200 OK"
+2024-06-11 01:46:46,403 - gigachat.client - INFO - OAUTH UPDATE TOKEN
+2024-06-11 01:46:49,539 - httpx - INFO - HTTP Request: POST https://gigachat.devices.sberbank.ru/api/v1/chat/completions "HTTP/1.1 200 OK"
